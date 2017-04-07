@@ -1,0 +1,22 @@
+{
+  "name": "PHMPhotoPicker",
+  "version": "0.1.0",
+  "summary": "A short description of PHMPhotoPicker.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/callhm/PHMPhotoPicker",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "callhm": "251962881@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/callhm/PHMPhotoPicker.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "PHMPhotoPicker/Classes/**/*"
+}

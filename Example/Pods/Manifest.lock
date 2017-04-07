@@ -1,0 +1,16 @@
+PODS:
+  - PHMPhotoPicker (0.1.0)
+
+DEPENDENCIES:
+  - PHMPhotoPicker (from `../`)
+
+EXTERNAL SOURCES:
+  PHMPhotoPicker:
+    :path: ../
+
+SPEC CHECKSUMS:
+  PHMPhotoPicker: 3321075a79f5ff394d346f162cb4fedded640198
+
+PODFILE CHECKSUM: 9845136be1173dd77e4475c746d2c88924deeea0
+
+COCOAPODS: 1.1.1
